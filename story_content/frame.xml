@@ -1073,7 +1073,7 @@
           <color name="brandhighlight">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4F81BD" alpha="100" stop="0" />
+                <color rgb="0x887F6F" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
